@@ -1,6 +1,6 @@
 
 # Student Management System
 
-Project Name: Student Management
+Project Name: student Registration System
 
 This project is developed using HTML, CSS and JavaScript.
