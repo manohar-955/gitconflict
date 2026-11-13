@@ -1,6 +1,6 @@
 
 # Student Management System
 
-Project Name: Student Management
+Project Name: student search
 
 This project is developed using HTML, CSS and JavaScript.
